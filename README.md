@@ -24,7 +24,7 @@ This is a web-based code quiz game where users can test their knowledge on vario
 
 ## Installation
 
-No installation is required. Simply open the `index.html` file in a web browser.
+No installation is required. Simply open the (https://chinazao1.github.io/assignment-js-webapis/index.html) file in a web browser.
 
 ## Screenshots
 
